@@ -1,8 +1,9 @@
 list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]
 tinylist = [123, 'john']
 
-#list
-#H->0,e->1,l->2,l->3,o->4,space->5,W->6
+#list elements
+#abcd->0,786->1,2.23->2,john->3,70.2->4
+# Total elements are 5
 
 print (list)          # Prints complete list
 print (list[0])       # Prints first element of the list

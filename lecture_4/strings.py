@@ -1,5 +1,6 @@
 str = 'Hello World!'
 
+#String Charecters
 #H->0,e->1,l->2,l->3,o->4,space->5,W->6,o->7,r->8,l->9,d->10,!->11
 #Total is 12 charecters
 
